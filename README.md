@@ -22,4 +22,11 @@ To install libraries,
 ## Acknowledgements
 All data is scraped from MyDramaList
  - [MyDramaList](https://www.mydramalist.com)
+ 
+ 
+## Support
+
+For support, contact me on [Instagram](https://instagram.com/__bitan005__)
+
+
 
