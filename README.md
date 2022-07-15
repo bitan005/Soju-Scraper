@@ -10,6 +10,7 @@ Make sure you have the following libraries installed:
 - BeautifulSoup4
 - requests
 - tkScrolledFrame
+
 To install libraries, 
 
 ```pip install beautifulsoup4```
