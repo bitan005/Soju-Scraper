@@ -1,5 +1,5 @@
 
-# Soju-Scraper
+# <img src="icon.png" width="25">Soju-Scraper
 A webscraping program based on **BeautifulSoup4** to get data from **MyDramaList** website.
 
 
