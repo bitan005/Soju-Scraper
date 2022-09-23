@@ -1,6 +1,8 @@
 
 # ![icon](https://user-images.githubusercontent.com/83669071/188553939-ca583f63-3d15-47f5-b77e-798ca3d8ed5b.png) Soju-Scraper
 
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 Soju-Scraper is a webscraping program to webscrape details and images from  [MyDramaList](https://www.mydramalist.com) website. 
 Since there is no public API for this website, this project was made to webscrape directly from the website.
@@ -28,6 +30,7 @@ Along with a CLI interface (Coming Soon) it mainly has a easy-to-use GUI. It inc
 The main program used to display the info of any K-Drama along with the poster of it.
 The UI is pretty simple and easy to use.
 It displays **Name, Native Title, Popularity, Episodes, Airing Date, Synopsis and Cast** of the searched drama.
+
 ![Screenshot from 2022-09-06 03-34-18](https://user-images.githubusercontent.com/83669071/188554279-7a63c1c4-eb8d-41c5-bd28-784f4819901a.png)
 ![Screenshot from 2022-09-06 03-34-00(2)](https://user-images.githubusercontent.com/83669071/188554948-5d4fc08e-7ead-4429-adbd-b33a58213e4b.png)
 
@@ -42,7 +45,15 @@ Soju-Downloader is the program to download all the images of a drama from the MD
 It has a CLI interface for now and the GUI is still in development with a few bugs.
 ![video6104914364765046610](https://user-images.githubusercontent.com/83669071/188563833-1987f240-3ae3-46c9-ab1b-6c0a8c0a3445.gif)
 
-It gets the image links and downloads them one-by-one and saves them in the same directory as of the porgram.
+It gets the image links and downloads them one-by-one and saves them in the same directory as of the program.
 
+## Why Soju-Scraper?
+'Coz why not! 😆
 
+I made this project for my personal use and to develop my skills in **Tkinter** and **BeautifulSoup4**.
+As of future updates, I am thinking of creating a library for webscraping MyDramaList.
 
+## Credits
+
+- All data and images scraped by this program belongs to [MyDramaList](https://mydramalist.com)
+- Soju-Scraper icon downloaded from [Icons8](https://www.icons8.com/)
