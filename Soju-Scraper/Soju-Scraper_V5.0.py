@@ -1,5 +1,4 @@
 from tkinter import *
-from urllib.request import urlopen
 import requests, shutil
 from PIL import ImageTk, Image
 from bs4 import BeautifulSoup
@@ -132,7 +131,7 @@ def about():
 \nDependencies:\n   - requests\n   - BeautifulSoup4\n   - tkscrolledframe\n   - Pillow     
 
 All data in this application are webscraped from https://www.mydramalist.com/\n
- Found issues? Reach me at @__bitan005__ on Instagram\n\nMade with Love by Bitan"""
+ Found issues? Reach me at @__bitan05__ on Instagram\n\nMade with Love by Bitan"""
     about_window = Toplevel(root)
     about_window.title("Soju-Scraper V5 - About")
     about_window.resizable(0, 0)
@@ -167,7 +166,7 @@ btn_get_upcoming.grid(row=0, column=2, padx=5)
 btn_about = Button(frm_other, text='About', command=about)
 btn_about.grid(row=0, column=3, padx=5)
 
-# root.tk.call('wm', 'iconphoto', root._w, PhotoImage(file='icon.png'))
+root.tk.call('wm', 'iconphoto', root._w, PhotoImage(file='icon.png'))
 
 frm_info = Frame(root, height=400, width=650)
 frm_info.grid(row=2, column=0, padx=10, pady=10)
