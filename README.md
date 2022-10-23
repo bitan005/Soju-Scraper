@@ -42,10 +42,17 @@ And the **About** button pops up a window which shows a little praise for me ;)
 
 ### Soju Downloader
 Soju-Downloader is the program to download all the images of a drama from the MDL website.
-It has a CLI interface for now and the GUI is still in development with a few bugs.
-![video6104914364765046610](https://user-images.githubusercontent.com/83669071/188563833-1987f240-3ae3-46c9-ab1b-6c0a8c0a3445.gif)
+![ezgif-5-b170c3fed9](https://user-images.githubusercontent.com/83669071/197398982-00f091a6-d5e3-4388-a7d3-79d23ef0e43d.gif)
 
 It gets the image links and downloads them one-by-one and saves them in the same directory as of the program.
+
+### Soju Downloader GUI
+The GUI version of Soju Downloader.
+
+![Screenshot from 2022-10-23 20-25-45](https://user-images.githubusercontent.com/83669071/197399258-99a66b83-fe7b-4323-a2b1-8fba50e98fb7.png)
+
+It does the same job as Soju Downloader except, it has a GUI interface.
+
 
 ## Why Soju-Scraper?
 'Coz why not! 😆
